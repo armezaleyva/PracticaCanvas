@@ -9,7 +9,7 @@
     <Canvas>
         <Button>Boton Uno</Button>
         <Button Canvas.Right="0" Canvas.Top="0">Boton Dos</Button>
-        <Button Canvas.Left="0" Canvas.Bottom="0">Boton Dos</Button>
-        <Button Canvas.Right="0" Canvas.Bottom="0">Boton Dos</Button>
+        <Button Canvas.Left="0" Canvas.Bottom="0">Boton Tres</Button>
+        <Button Canvas.Right="0" Canvas.Bottom="0">Boton Cuatro</Button>
     </Canvas>
 </Window>
